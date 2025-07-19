@@ -1,7 +1,2 @@
 # A - Required Length
-P = input()
-L = int(input())
-if len(P) >= L:
-    print("Yes")
-else:
-    print("No")
+print("Yes" if len(input()) >= int(input()) else "No")
