@@ -1,3 +1,4 @@
+# B - Restaurant Queue
 from collections import deque
 
 Q = int(input())
